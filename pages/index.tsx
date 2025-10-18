@@ -6,7 +6,7 @@ export default function Home() {
     {
       title: "Study Plan",
       desc: "Create a 7-day study plan for my upcoming final exams, including short breaks.",
-      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=2242&promptId=18",
+      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=11196&promptId=18",
       border: "border-yellow-400",
       text: "text-yellow-400",
       button: "border-yellow-400 text-yellow-400 hover:bg-yellow-400 hover:text-black",
@@ -15,7 +15,7 @@ export default function Home() {
     {
       title: "Podcast Ideas",
       desc: "I want to start a podcast for college students. Brainstorm 5 unique podcast concepts and suggest a name and a target audience for each.",
-      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=2242&promptId=19",
+      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=11196&promptId=19",
       border: "border-green-400",
       text: "text-green-400",
       button: "border-green-400 text-green-400 hover:bg-green-400 hover:text-black",
@@ -24,7 +24,7 @@ export default function Home() {
     {
       title: "College Fest",
       desc: "My college fest is coming up. Help me brainstorm 5 unique ideas for a stall or event that are low-cost but can attract a lot of footfall.",
-      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=2242&promptId=20",
+      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=11196&promptId=20",
       border: "border-blue-400",
       text: "text-blue-400",
       button: "border-blue-400 text-blue-400 hover:bg-blue-400 hover:text-black",
@@ -33,7 +33,7 @@ export default function Home() {
     {
       title: "Track Spending",
       desc: "Suggest a fun way to track my spending that feels more like a story or game than a spreadsheet.",
-      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=2242&promptId=21",
+      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=11196&promptId=21",
       border: "border-purple-400",
       text: "text-purple-400",
       button: "border-purple-400 text-purple-400 hover:bg-purple-400 hover:text-black",
@@ -42,7 +42,7 @@ export default function Home() {
     {
       title: "Local Festival",
       desc: "Explain a local festival from my region to a friend from a different part of the country.",
-      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=2242&promptId=22",
+      url: "https://aiskillshouse.com/student/qr-mediator.html?uid=11196&promptId=22",
       border: "border-red-400",
       text: "text-red-400",
       button: "border-red-400 text-red-400 hover:bg-red-400 hover:text-black",
@@ -139,7 +139,7 @@ export default function Home() {
               <button
                 onClick={() =>
                   window.open(
-                    "https://aiskillshouse.com/community?userId=2242",
+                    "https://aiskillshouse.com/community?userId=11196",
                     "_blank"
                   )
                 }
